@@ -5,12 +5,14 @@ color: #ffcd6f;
 }
 
 body{
-    background-color: #eaafaf;
+    background-color: #ffbdbd;
 
 }
 
 p{
-text-align: ;
+text-align: left;
+font-size: medium;
+color: rgb(248, 70, 70);
 
 
 }
